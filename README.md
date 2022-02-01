@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WallefS
 - 👀 I’m interested in technology
-- 🌱 I'm currently programming PHP
+- 🌱 Fullstack developer
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me www.wallefsousa.com.br
 
